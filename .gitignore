@@ -1,0 +1,5 @@
+# Local client secret file
+./client_secret.json
+
+# Downloaded setuptools
+./setuptools*
