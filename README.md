@@ -7,7 +7,7 @@ The purpose of this script is to retrieve various statistics from Gmail using th
 * Linux
 
 ## Overview
-For now the only statistics being retrieved are the number of emails sent by a specific user on a particular day.
+For now the only statistics being retrieved are the number of emails received from a specific user on a particular day.
 
 Sample command
 
