@@ -64,7 +64,7 @@ def generate_results(date,sender, message_count):
     print ('=======================================')
     print ('Date:  %s' % date)
     print ('From:  %s' % sender)
-    print ('Total: %s' % message_count)
+    print ('Mail:  %s' % message_count)
     print ('=======================================')
 
 def main():
